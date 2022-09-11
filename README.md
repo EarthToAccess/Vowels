@@ -1,5 +1,4 @@
-<!--![Vowels Logo](https://example.com)-->
-<!-- This logo doesn't exist yet! It will once the UI proper gets push in some form.-->
+<img src="https://user-images.githubusercontent.com/38049304/189537408-671e7b0a-741a-493a-9f68-97e220585c50.png" width="256">
 
 # Welcome to Vowels.
 
