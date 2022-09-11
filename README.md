@@ -1,7 +1,7 @@
 <!--![Vowels Logo](https://example.com)-->
 <!-- This logo doesn't exist yet! It will once the UI proper gets push in some form.-->
 
-# Welcome to EBGUI.
+# Welcome to Vowels.
 
 ![Milestone 2](https://user-images.githubusercontent.com/38049304/187346393-7f24eee6-cc3b-4b8b-9340-48a0e1865159.svg)
 [![Earth's Roblox Profile](https://user-images.githubusercontent.com/38049304/185816395-296cc028-f944-490d-8889-33a83d5922f5.svg)](https://www.roblox.com/users/32573334/profile)
